@@ -1,0 +1,23 @@
+.conatiner{
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  align-items:center;
+  margin-top:2rem;
+}
+
+
+/* .chart{
+  width:50%;
+} */
+
+.table{
+  width:100%;
+}
+
+.filterNav{
+  display:flex;
+  gap: 1rem;
+    justify-content: end;
+
+}
