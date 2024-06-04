@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
 
+coupled with the provided FastAPI local dev endpoint only
 
 ### Installation
 
